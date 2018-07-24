@@ -1,0 +1,35 @@
+body{
+    background-color: lightgray;
+}
+
+input{
+    display: block;
+    height: 30px;
+    width: 20vw;
+    border-radius: 8px;
+    border: none;
+    margin: 10px;
+    text-align: center;
+}
+
+label{
+    font-family: sans-serif;
+
+}
+
+form{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button{
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+    border: none;
+    background-color: gray;
+    color: white;
+}
